@@ -9,7 +9,6 @@
 // @require     https://cdn.jsdelivr.net/npm/regenerator-runtime@0.13.11/runtime.js
 // @run-at      document-start
 // @version 0.0.1.20260207125712
-// @namespace https://greasyfork.org/users/1568629
 // ==/UserScript==
 function A(I) {
     return A = "function" == typeof Symbol && "symbol" == typeof Symbol.iterator ? function(A) {
